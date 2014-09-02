@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1070831,
+          42.5216142
+        ]
+      },
+      "properties": {
+        "Nom": "Collectif anonyme",
+        "Adresse": "10 Rue Henri Dunant 66660 PORT-VENDRES",
+        "addrtype": "street_address",
+        "addrlocat": "ROOFTOP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.128874,
+          42.48343
+        ]
+      },
+      "properties": {
+        "Nom": "DOMAINE DE PECHPEYROU",
+        "Adresse": "12 LES HAUTS DE MARISOL 66650 BANYULS SUR MER",
+        "addrtype": "locality",
+        "addrlocat": "APPROXIMATE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.126221097625412,
+          42.48306315166708
+        ]
+      },
+      "properties": {
+        "Nom": "Domaine YOYO",
+        "Adresse": "14 Impasse Aristide Maillol BP 37 66650 BANYULS SUR MER",
+        "addrtype": "locality",
+        "addrlocat": "APPROXIMATE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1278307,
+          42.4810749
+        ]
+      },
+      "properties": {
+        "Nom": "CASOT DES MAILLOLES",
+        "Adresse": "17 av. Puig del Mas 66650 BANYULS SUR MER",
+        "addrtype": "street_address",
+        "addrlocat": "RANGE_INTERPOLATED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1285272,
+          42.4821795
+        ]
+      },
+      "properties": {
+        "Nom": "DOMAINE DU TRAGINER",
+        "Adresse": "7 rue Saint Pierre 66650 BANYULS SUR MER",
+        "addrtype": "street_address",
+        "addrlocat": "RANGE_INTERPOLATED"
+      }
+    }
+  ]
+}
